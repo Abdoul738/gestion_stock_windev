@@ -1,0 +1,20 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+Ingrédients		NFI		nouveau fichier
+StockMP		NFI		nouveau fichier
+Produits		NFI		nouveau fichier
+StockProd		NFI		nouveau fichier
+Ventes		NFI		nouveau fichier
+Factures		NFI		nouveau fichier
+Ravitaillement		NFI		nouveau fichier
+Production		NFI		nouveau fichier
+Detail_prod		NFI		nouveau fichier
+Detail_ravitaillement		NFI		nouveau fichier
+Contrainte_Ravitaillement_Detail_ravitaillement		NWL	Ravitaillement (IDRavitaillement) et Detail_ravitaillement (IDRavitaillement)	Nouvelle liaison entre les fichiers Ravitaillement (IDRavitaillement) et Detail_ravitaillement (IDRavitaillement)
+Contrainte_Ingrédients_StockMP		NWL	Ingrédients (IDIngrédients) et StockMP (IDIngrédients)	Nouvelle liaison entre les fichiers Ingrédients (IDIngrédients) et StockMP (IDIngrédients)
+Contrainte_Produits_Detail_prod		NWL	Produits (IDProduits) et Detail_prod (IDProduits)	Nouvelle liaison entre les fichiers Produits (IDProduits) et Detail_prod (IDProduits)
+Contrainte_Produits_StockProd		NWL	Produits (IDProduits) et StockProd (IDProduits)	Nouvelle liaison entre les fichiers Produits (IDProduits) et StockProd (IDProduits)
+Contrainte_Produits_Ventes		NWL	Produits (IDProduits) et Ventes (IDProduits)	Nouvelle liaison entre les fichiers Produits (IDProduits) et Ventes (IDProduits)
+Contrainte_Factures_Ventes		NWL	Factures (IDFactures) et Ventes (IDFactures)	Nouvelle liaison entre les fichiers Factures (IDFactures) et Ventes (IDFactures)
+Contrainte_Production_Detail_prod		NWL	Production (IDProduction) et Detail_prod (IDProduction)	Nouvelle liaison entre les fichiers Production (IDProduction) et Detail_prod (IDProduction)
+Contrainte_StockMP_Detail_prod		NWL	StockMP (IDStockMP) et Detail_prod (IDStockMP)	Nouvelle liaison entre les fichiers StockMP (IDStockMP) et Detail_prod (IDStockMP)
+Contrainte_Ingrédients_Detail_ravitaillement		NWL	Ingrédients (IDIngrédients) et Detail_ravitaillement (IDIngrédients)	Nouvelle liaison entre les fichiers Ingrédients (IDIngrédients) et Detail_ravitaillement (IDIngrédients)
