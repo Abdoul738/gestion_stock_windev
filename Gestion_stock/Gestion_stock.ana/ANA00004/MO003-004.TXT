@@ -1,0 +1,3 @@
+//MO003-004.TXT ANA00003 TO ANA00004
+Factures		TAR	187	nouvelle taille enregistrement : 187
+Factures	libellé	RUB+		libellé est une nouvelle rubrique
