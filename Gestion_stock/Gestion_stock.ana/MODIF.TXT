@@ -1,3 +1,2 @@
-//MO003-004.TXT ANA00003 TO ANA00004
-Factures		TAR	187	nouvelle taille enregistrement : 187
-Factures	libellé	RUB+		libellé est une nouvelle rubrique
+//MO008-009.TXT ANA00008 TO ANA00009
+Contrainte_Factures_Ventes		MCL	1,1->0,1	

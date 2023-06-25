@@ -1,0 +1,9 @@
+//MO005-006.TXT ANA00005 TO ANA00006
+Ravitaillement		TAR	73	nouvelle taille enregistrement : 73
+Ravitaillement	IDRavitaillement	CNW	Identifiant automatique (4 octets)$UUID automatique (128 bits)	la rubrique IDRavitaillement a pour nouveau type Identifiant automatique (4 oct
+Production		TAR	73	nouvelle taille enregistrement : 73
+Production	IDProduction	CNW	Identifiant automatique (4 octets)$UUID automatique (128 bits)	la rubrique IDProduction a pour nouveau type Identifiant automatique (4 oct
+Detail_prod		TAR	65	nouvelle taille enregistrement : 65
+Detail_prod	IDProduction	CNW	Entier sur 4 octets$UUID (128 bits)	la rubrique IDProduction a pour nouveau type Entier sur 4 octets
+Detail_ravitaillement		TAR	47	nouvelle taille enregistrement : 47
+Detail_ravitaillement	IDRavitaillement	CNW	Entier sur 4 octets$UUID (128 bits)	la rubrique IDRavitaillement a pour nouveau type Entier sur 4 octets
