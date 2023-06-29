@@ -1,0 +1,5 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+Ravitaillement		TAR	85	nouvelle taille enregistrement : 85
+Ravitaillement	libellé	RUB+		libellé est une nouvelle rubrique
+Production		TAR	85	nouvelle taille enregistrement : 85
+Production	libellé	RUB+		libellé est une nouvelle rubrique

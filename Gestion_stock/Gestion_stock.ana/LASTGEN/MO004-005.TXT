@@ -1,0 +1,5 @@
+//MO004-005.TXT ANA00004 TO ANA00005
+Ventes		TAR	47	nouvelle taille enregistrement : 47
+Ventes	IDFactures	CNW	Entier sur 4 octets$UUID (128 bits)	la rubrique IDFactures a pour nouveau type Entier sur 4 octets
+Factures		TAR	175	nouvelle taille enregistrement : 175
+Factures	IDFactures	CNW	Identifiant automatique (4 octets)$UUID automatique (128 bits)	la rubrique IDFactures a pour nouveau type Identifiant automatique (4 oct
